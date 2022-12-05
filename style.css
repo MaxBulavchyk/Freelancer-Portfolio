@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.home {
+    height: 100vh;
+    background-color: #171718;
+}
+
+li {
+    list-style: none;
+}
+
+section {
+    min-height: 100vh;
+}
+
+img {
+    width: 100%;
+}
+
+.footer {
+    background-color: #171718;
+}
